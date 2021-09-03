@@ -34,7 +34,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ The following are my abilities in field of information security
     * ![Bypass](https://img.shields.io/badge/-Bypass-black?style=plastic)
-    * ![Penetration test](https://img.shields.ifield ofo/badge/-Penetration%20test-yellow?style=plastic)
+    * ![Penetration test](https://img.shields.io/badge/-Penetration%20test-yellow?style=plastic)
     * ![Security development](https://img.shields.io/badge/-Security%20development-red?style=plastic)
     * **...**
 
