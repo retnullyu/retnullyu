@@ -4,18 +4,20 @@ The three most important things in life so far are programming skills, health an
 
 - 🏢 I'm currently working at JD as an information security engineer. 
 - 🚀 I use daily:
-  ![spring](https://img.shields.io/badge/-Spring5-black?style=plastic&logo=spring)
+  ![spring](https://img.shields.io/badge/-Spring5-6DB33F?style=plastic&logo=spring)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git)
   ![java](https://img.shields.io/badge/-java-red?style=plastic&logo=java)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![BurpSuit](https://img.shields.io/badge/-BurpSuit-yellow?style=plastic&logo=BurpSuit)
   ![IDA7](https://img.shields.io/badge/-IDA7-black?style=plastic&logo=IDA)
+  ![IDEA](https://img.shields.io/badge/-IDEA-000000?style=plastic&logo=intellijidea)
+  ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=plastic&logo=windowsterminal)
   
 
 - 💻 I work using:
-  ![mysql](https://img.shields.io/badge/-mysql-3b2e5a?style=plastic&logo=mysql)
-  ![vue](https://img.shields.io/badge/-vue-0081CB?style=plastic&logo=vue)
+  ![mysql](https://img.shields.io/badge/-mysql-4479A1?style=plastic&logo=mysql)
+  ![vue](https://img.shields.io/badge/-vue-0081CB?style=plastic&logo=vuedotjs)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![Redis](https://img.shields.io/badge/-Redis-336791?style=plastic&logo=Redis)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
