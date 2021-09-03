@@ -20,7 +20,9 @@ The three most important things in life so far are programming skills, health an
   ![Redis](https://img.shields.io/badge/-Redis-336791?style=plastic&logo=Redis)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![Mybatis](https://img.shields.io/badge/-Mybatis-FCA121?style=plastic&logo=Mybatis)
-- ⚙️ I also use and work: ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)  
+- ⚙️ I also use and work: 
+  ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)  
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
