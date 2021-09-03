@@ -13,6 +13,7 @@ The three most important things in life so far are programming skills, health an
   ![IDA7](https://img.shields.io/badge/-IDA7-black?style=plastic&logo=IDA)
   ![IDEA](https://img.shields.io/badge/-IDEA-000000?style=plastic&logo=intellijidea)
   ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=plastic&logo=windowsterminal)
+  ![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=plastic&logo=apachemaven)
   
 
 - 💻 I work using:
