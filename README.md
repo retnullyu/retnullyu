@@ -1,6 +1,6 @@
 # Hi  👋
 
-**The three most important things in my life so far are programming skills, health and English ability.**
+**The three most important things in my life so far are programming skills, ability to discover vulnerabilities and making money.**
 
 - 🏢 I'm currently working at JD as an information security engineer. 
 - 🚀 I use daily:
