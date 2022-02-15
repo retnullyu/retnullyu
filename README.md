@@ -19,7 +19,7 @@
 - 💻 I work using:
   ![mysql](https://img.shields.io/badge/-mysql-4479A1?style=plastic&logo=mysql)
   ![vue](https://img.shields.io/badge/-vue-0081CB?style=plastic&logo=vuedotjs)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
+  ![go](https://img.shields.io/badge/-go-092E20?style=plastic&logo=Go)
   ![Redis](https://img.shields.io/badge/-Redis-336791?style=plastic&logo=Redis)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![Mybatis](https://img.shields.io/badge/-Mybatis-FCA121?style=plastic&logo=Mybatis)
