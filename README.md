@@ -38,5 +38,5 @@
     * ![Security development](https://img.shields.io/badge/-Security%20development-red?style=plastic)
     * **...**
 
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=retnullyu&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
+[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=retnullyu&theme=dark&show_icons=true)](https://github.com/)
 
