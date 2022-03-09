@@ -9,7 +9,7 @@
   ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git)
   ![java](https://img.shields.io/badge/-java-red?style=plastic&logo=java)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-  ![BurpSuit](https://img.shields.io/badge/-BurpSuit-yellow?style=plastic&logo=BurpSuit)
+  ![BurpSuite](https://img.shields.io/badge/-BurpSuite-yellow?style=plastic&logo=BurpSuite)
   ![IDA7](https://img.shields.io/badge/-IDA7-black?style=plastic&logo=IDA)
   ![IDEA](https://img.shields.io/badge/-IDEA-000000?style=plastic&logo=intellijidea)
   ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=plastic&logo=windowsterminal)
