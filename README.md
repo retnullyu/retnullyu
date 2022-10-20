@@ -30,7 +30,7 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 - 🌱 Learning all about:
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![go](https://img.shields.io/badge/-go-c7b198?style=plastic&logo=go) !
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![go](https://img.shields.io/badge/-go-c7b198?style=plastic&logo=go) 
 - ⚡️ The following are my abilities in field of information security
     * ![SDL](https://img.shields.io/badge/-SDL-black?style=plastic)
     * ![Penetration test](https://img.shields.io/badge/-Penetration%20test-yellow?style=plastic)
