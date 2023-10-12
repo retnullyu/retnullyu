@@ -1,8 +1,6 @@
 # Hi  👋
 
-**The three most important things in my life so far are programming skills, ability to discover vulnerabilities and making money.**
-
-- 🏢 I'm currently working at Beijing as an information security engineer. 
+- 🏢 I'm currently working at Hanzhou as an information security engineer. 
 - 🚀 I use daily:
   ![spring](https://img.shields.io/badge/-Spring5-6DB33F?style=plastic&logo=spring)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
